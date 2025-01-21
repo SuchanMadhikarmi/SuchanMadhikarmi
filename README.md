@@ -17,6 +17,6 @@
 
 
 [instagram]: https://www.instagram.com/suchan__madhikarmi/
-[linkedin]: linkedin.com/in/suchanmadhikarmi
+[linkedin]: https://www.linkedin.com/in/suchanmadhikarmi/
 
 
