@@ -4,7 +4,7 @@
  
   - [Azure-Sentinel-Honeypot VM](https://github.com/SuchanMadhikarmi/HoneypotVM)
 
-<h2>📺 Certifications</h2>
+<h2>📜 Certifications</h2>
 
 - [Google Cybersecurity Certificate](https://coursera.org/share/7d562e78f65bbf7ba54abc53728de57f)
 - [Defensive Security Operations](https://app.cybrary.it/profile/suchanDEO?tab=cert-completion&cert=CC-ea7f1be7-c63a-4eb6-a30b-bb919f30c0b6)
