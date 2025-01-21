@@ -1,9 +1,7 @@
 <h1>Hi, I'm Suchan! <br/><a href="https://github.com/SuchanMadhikarmi"></a><a href="https://www.linkedin.com/in/suchanmadhikarmi/">Aspiring Cybersecurity Analyst</a></h1>
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Azure-Sentinel-Honeypot VM](github.com/SuchanMadhikarmi/ActiveDirectory/)
 
 <h2>📺 Certifications</h2>
 
