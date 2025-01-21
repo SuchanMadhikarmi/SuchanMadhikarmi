@@ -1,7 +1,8 @@
 <h1>Hi, I'm Suchan! <br/><a href="https://github.com/SuchanMadhikarmi"></a><a href="https://www.linkedin.com/in/suchanmadhikarmi/">Aspiring Cybersecurity Analyst</a></h1>
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
-  - [Azure-Sentinel-Honeypot VM](github.com/SuchanMadhikarmi/ActiveDirectory/)
+ 
+  - [Azure-Sentinel-Honeypot VM](https://github.com/SuchanMadhikarmi/HoneypotVM)
 
 <h2>📺 Certifications</h2>
 
