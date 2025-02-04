@@ -5,6 +5,7 @@
   - [Azure-Sentinel-Honeypot VM](https://github.com/SuchanMadhikarmi/HoneypotVM)
   - [SOC Automation](https://github.com/SuchanMadhikarmi/SOC)
   - [File Integrity Monitoring (FIM) using Wazuh](https://github.com/SuchanMadhikarmi/FIM-using-Wazuh)
+  - [Phishing Simulation using Gophish](https://github.com/SuchanMadhikarmi/Phising-simulation)
   - [Splunk Log Analysis](https://github.com/SuchanMadhikarmi/Splunk)
   - [Keylogger in Python](https://github.com/SuchanMadhikarmi/Keylogger)
 
