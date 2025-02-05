@@ -12,7 +12,7 @@
 <h2>📜 Certifications</h2>
 
 - [Google Cybersecurity Certificate](https://coursera.org/share/7d562e78f65bbf7ba54abc53728de57f)
-- [Cisco Netwokring Basics](https://www.credly.com/badges/760ecf1c-de2c-408d-b938-c6ac53bc9b60/linked_in_profile)
+- [Cisco Networking Basics](https://www.credly.com/badges/760ecf1c-de2c-408d-b938-c6ac53bc9b60/linked_in_profile)
 - [Defensive Security Operations](https://app.cybrary.it/profile/suchanDEO?tab=cert-completion&cert=CC-ea7f1be7-c63a-4eb6-a30b-bb919f30c0b6)
 - [Defensive Security and Cyber Risk](https://app.cybrary.it/profile/suchanDEO?tab=cert-completion&cert=CC-ba37e3d9-8b49-4d09-873a-9ab2f7e20ea0)
 
