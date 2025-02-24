@@ -3,7 +3,8 @@
 <h2>👨‍💻Cloud Security & Cybersecurity Projects:</h2>
  
   - [Cloud Security Project: Securing an AWS RDS Database](https://github.com/SuchanMadhikarmi/Securing-AWS-Database--Project)
-  - [AWS Cloud Security Monitoring with CIS Benchmark Compliance](https://github.com/SuchanMadhikarmi/AWS-Cloud-Security-Monitoring)
+  - [Cloud Security Project: AWS Cloud Security Monitoring with CIS Benchmark Compliance](https://github.com/SuchanMadhikarmi/AWS-Cloud-Security-Monitoring)
+  - [Cloud Security Project: Securing an AWS RDS Database](https://github.com/SuchanMadhikarmi/Cloud-Security-with-AWS-IAM)
   - [Azure-Sentinel-Honeypot VM](https://github.com/SuchanMadhikarmi/HoneypotVM)
   - [SOC Automation](https://github.com/SuchanMadhikarmi/SOC)
   - [File Integrity Monitoring (FIM) using Wazuh](https://github.com/SuchanMadhikarmi/FIM-using-Wazuh)
