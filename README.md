@@ -30,7 +30,7 @@
 
 ---
 
-##  Simple Pyhton Cyber & Encryption Codes
+##  Simple Pyhton Keylogger & Encryption Codes
 
 | Project | Technologies | Key Focus | Repository |
 |---------|--------------|-----------|------------|
