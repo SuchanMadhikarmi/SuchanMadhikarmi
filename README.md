@@ -7,7 +7,7 @@
 
 ---
 
-## 🔒 Cloud Security Portfolio
+##  Cloud Projects
 
 | Project | Technologies | Key Focus | Repository |
 |---------|--------------|-----------|------------|
@@ -18,7 +18,7 @@
 
 ---
 
-## 🔹 Cybersecurity & SOC Portfolio
+##  Cybersecurity Projects
 
 | Project | Technologies | Key Focus | Repository |
 |---------|--------------|-----------|------------|
@@ -30,7 +30,7 @@
 
 ---
 
-## 🔹 Simple Cybersecurity Projects
+##  Simple Pyhton Cyber & Encryption Codes
 
 | Project | Technologies | Key Focus | Repository |
 |---------|--------------|-----------|------------|
