@@ -11,6 +11,7 @@
 
 | Project | Technologies | Key Focus | Repository |
 |---------|--------------|-----------|------------|
+| **AWS VPC Networking and Security Implementation** | ![AWS](https://img.shields.io/badge/AWS-VPC-2C73D2?style=flat&logo=amazon-aws) | AWS Networking & Security | [🔍 View Project](https://github.com/SuchanMadhikarmi/AWS-VPC-Networking) |
 | **Cloud Intrusion Detection** | ![AWS](https://img.shields.io/badge/AWS-GuardDuty-2C73D2?style=flat&logo=amazon-aws) | Threat Monitoring | [🔍 View Project](https://github.com/SuchanMadhikarmi/Threat-Detection-using-GuardDuty) |
 | **AWS RDS Database Security** | ![AWS](https://img.shields.io/badge/AWS-RDS-2C73D2?style=flat&logo=amazon-aws) | Data Protection | [🔍 View Project](https://github.com/SuchanMadhikarmi/Securing-AWS-Database--Project) |
 | **Cloud Security Monitoring** | ![AWS](https://img.shields.io/badge/AWS-Security%20Hub-2C73D2?style=flat&logo=amazon-aws) | CIS Compliance | [🔍 View Project](https://github.com/SuchanMadhikarmi/AWS-Cloud-Security-Monitoring) |
