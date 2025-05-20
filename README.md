@@ -63,10 +63,13 @@
 | **Email Marketing** | HubSpot | Digital Marketing | [ Verify](https://app-na2.hubspot.com/academy/achievements/7gmxggl2/en/1/suchan-madhikarmi/email-marketing) |
 
 ### 🌟 Certification Highlights
+- AWS Solutions Architect
+- DevOps Practices & Tools 
 - Comprehensive Cybersecurity Skill Set
 - Cloud and Networking Expertise
 - Professional Certifications from Renowned Organizations
 - Practical Experience through Job Simulations
+
 
 ## 🤳 Connect with Me
 
