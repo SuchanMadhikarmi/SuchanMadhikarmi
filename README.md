@@ -1,13 +1,18 @@
 # Hi, I'm Suchan!  
-## [**<span style="color:#0077B5; font-size: 28px;">Aspiring Cloud Security Engineer & Cybersecurity Analyst</span>**](https://suchanmadhikarmi.com.np)
+## [**<span style="color:#0077B5; font-size: 28px;">AWS Certified Solutions Architect | DevOps Certified | ISC2 CC | Aspiring DevSecOps & Cloud Security Engineer</span>**](https://suchanmadhikarmi.com.np)
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio_Link-0077B5?style=for-the-badge&logo=appveyor&logoColor=white)](https://suchanmadhikarmi.com.np)
 
-# Cloud & Cybersecurity Projects  
+# DevOps Projects
 
----
+| Project | Key Focus | Repository |
+|---------|-----------|------------|
+| **GitOps Project** | Automation & Integration | [🔍 View Project](https://github.com/SuchanMadhikarmi/GitOps-Project) |
+| **AWS CI/CD Pipeline Deployment Project** | Automation & Integration | [🔍 View Project](https://github.com/SuchanMadhikarmi/AWS_CICD) |
+| **AWS Microservices ReDesign** | Automated Cloud Infra Provisioning | [🔍 View Project](https://github.com/SuchanMadhikarmi/PAAS-and-SAAS-in-AWS) |
+| **AWS DevOps vProfile Deployment Project** | Containerization & CI/CD | [🔍 View Project](https://github.com/SuchanMadhikarmi/aws_devops_app_deploy) |
 
-##  Cloud Projects
+## Cloud Projects
 
 | Project | Technologies | Key Focus | Repository |
 |---------|--------------|-----------|------------|
@@ -19,7 +24,7 @@
 
 ---
 
-##  Cybersecurity Projects
+## Cybersecurity Projects
 
 | Project | Technologies | Key Focus | Repository |
 |---------|--------------|-----------|------------|
@@ -31,7 +36,7 @@
 
 ---
 
-##  Simple Pyhton Keylogger & Encryption Codes
+## Simple Python Keylogger & Encryption Codes
 
 | Project | Technologies | Key Focus | Repository |
 |---------|--------------|-----------|------------|
@@ -39,9 +44,7 @@
 | **Simple Caesar Cipher** | ![Python](https://img.shields.io/badge/Python-Cryptography-2C73D2?style=flat&logo=python) | Encryption Basics | [🔍 View Project](https://github.com/SuchanMadhikarmi/Simple-caesar-cipher) |
 | **Simple Transposition Cipher** | ![Python](https://img.shields.io/badge/Python-Cryptography-2C73D2?style=flat&logo=python) | Encryption Techniques | [🔍 View Project](https://github.com/SuchanMadhikarmi/Simple-Transposition-Cipher) |
 
-
 ---
-
 
 ## 📜 Professional Certifications & Achievements
 
@@ -64,6 +67,7 @@
 - Cloud and Networking Expertise
 - Professional Certifications from Renowned Organizations
 - Practical Experience through Job Simulations
+
 ## 🤳 Connect with Me
 
 <div align="center">
@@ -77,8 +81,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Address"/>
   </a>
 </div>
-
-
-</p>
-
-
