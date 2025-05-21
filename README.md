@@ -50,6 +50,8 @@
 
 | Certification | Issuing Organization | Type | Verification |
 |--------------|---------------------|------|--------------|
+| **AWS Certified Solutions Architect - Associate** | AWS | Cloud Computing | [ Verify](https://cp.certmetrics.com/amazon/en/public/verify/credential/c073c6f7ade04948b4f94f1ce3a3096f) |
+| **DevOps Beginners to Advanced with Projects** | Udemy | DevOps | [ Verify](https://www.udemy.com/certificate/UC-2d81e1ac-c6e4-4635-a9f6-79ca461a3a43/) |
 | **Google Cybersecurity Certificate** | Coursera | Cybersecurity | [ Verify](https://coursera.org/share/7d562e78f65bbf7ba54abc53728de57f) |
 | **ISC2 Certified in Cybersecurity (CC)** | ISC2 | Professional Certification | [ Verify](https://www.isc2.org/Certifications/CC) |
 | **ISC2 Candidate** | ISC2 | Professional Status | [ Verify](https://www.credly.com/badges/e4c8f322-6399-4e03-91e0-ae40548cef9f/linked_in_profile) |
