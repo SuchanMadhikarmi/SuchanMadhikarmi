@@ -9,6 +9,7 @@
 |---------|-----------|------------|
 | **Infrastructure & Application Deployment using Ansible** | Automation & Integration | [🔍 View Project](https://github.com/SuchanMadhikarmi/ansible-aws-vpc) |
 | **GitOps Project** | Automation & Integration | [🔍 View Project](https://github.com/SuchanMadhikarmi/GitOps-Project) |
+| **Terraform Project** | Automation & Integration | [🔍 View Project](https://github.com/SuchanMadhikarmi/Terraform-for-Cloud-State-Management) |
 | **Continuous Integration Project(Part 1)** | Automation & Integration | [🔍 View Project](https://github.com/SuchanMadhikarmi/Continuous-Integration-with-Jenkins-Nexus-Sonarqube-and-Slack) |
 | **Continuous Delivery Project(Part 2)** | Automation & Delivery | [🔍 View Project](https://github.com/SuchanMadhikarmi/Continuous-Delivery-of-java-web-application) |
 | **AWS CI/CD Pipeline Deployment Project** | Automation & Integration | [🔍 View Project](https://github.com/SuchanMadhikarmi/AWS_CICD) |
