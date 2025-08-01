@@ -7,6 +7,7 @@
 
 | Project | Key Focus | Repository |
 |---------|-----------|------------|
+| **DevSecOps – Secure CI/CD** | Automation & Security | [🔍 View Project](https://github.com/SuchanMadhikarmi/DevSecOps-Secure-CI-CD-Pipeline) |
 | **Infrastructure & Application Deployment using Ansible** | Automation & Integration | [🔍 View Project](https://github.com/SuchanMadhikarmi/ansible-aws-vpc) |
 | **GitOps Project** | Automation & Integration | [🔍 View Project](https://github.com/SuchanMadhikarmi/GitOps-Project) |
 | **Terraform Project** | Automation & Integration | [🔍 View Project](https://github.com/SuchanMadhikarmi/Terraform-for-Cloud-State-Management) |
