@@ -14,7 +14,7 @@
 | **Continuous Integration Project(Part 1)** | Automation & Integration | [🔍 View Project](https://github.com/SuchanMadhikarmi/Continuous-Integration-with-Jenkins-Nexus_Sonarqube-and-Slack) |
 | **Continuous Delivery Project(Part 2)** | Automation & Delivery | [🔍 View Project](https://github.com/SuchanMadhikarmi/Continuous-Delivery-of-java-web_application) |
 | **AWS CI/CD Pipeline Deployment Project** | Automation & Integration | [🔍 View Project](https://github.com/SuchanMadhikarmi/AWS__CICD) |
-| **Observability in kubernetes** | Monitoring| [🔍 View Project](https://github.com/SuchanMadhikarmi/Observability-Full) |
+| **Observability in Kubernetes** | Monitoring| [🔍 View Project](https://github.com/SuchanMadhikarmi/Observability-Full) |
 | **3-Tier-GithubActions Project** | Automation & Delivery | [🔍 View Project](https://github.com/SuchanMadhikarmi/3-Tier-GithubActionsProject) |
 | **AWS Microservices ReDesign** | Automated Cloud Infra Provisioning | [🔍 View Project](https://github.com/SuchanMadhikarmi/PAAS-and-SAAS-AWS) |
 | **AWS DevOps vProfile Deployment Project** | Deployment| [🔍 View Project](https://github.com/SuchanMadhikarmi/aws_devops_appdeploy) |
